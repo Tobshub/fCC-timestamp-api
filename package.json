@@ -1,0 +1,26 @@
+{
+  "name": "fcc-timestamp-api-project",
+  "version": "0.0.1",
+  "description": "A FCC Backend Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "cors": "^2.8.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.12.4"
+  },
+  "author":
+    "freeCodeCamp <team@freecodecamp.org>",
+  "keywords": [
+    "node",
+    "express",
+    "freeCodeCamp"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
